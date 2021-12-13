@@ -8,7 +8,7 @@ docutils==0.14
 html2text==2018.1.9
 idna==2.8
 jmespath==0.9.3
-lxml==4.3.0
+lxml==4.6.5
 pycparser==2.17
 python-dateutil==2.7.5
 requests==2.21.0
